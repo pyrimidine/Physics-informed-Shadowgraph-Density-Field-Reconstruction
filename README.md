@@ -3,7 +3,7 @@ This repository contains the source code for the research paper *"Physics-Inform
 ### Overview
 This code implements a physics-informed framework for reconstructing density fields from shadowgraph images. The approach combines shadowgraph imaging techniques with physics-informed neural networks (PINNs) to accurately capture refractive index variations in complex flow fields.
 
-![image](alcohol burner flame.gif)
+![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/7813ac0001175ee698601809498e7e402c0ceada/alcohol%20burner%20flame.gif)
 
 ### Key Features
 - **Shadowgraph Image Processing**: Pre-processing and analysis of shadowgraph images for density field visualization.
