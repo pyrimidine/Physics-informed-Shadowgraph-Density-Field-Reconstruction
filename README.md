@@ -13,7 +13,7 @@ This code implements a physics-informed framework for reconstructing density fie
 - **Density Field Reconstruction**: Algorithms for computing density distributions based on refractive index variations within the experimental field.
 
 ### Dataset
-The data folder only contains a few example images, training solely on this data will result in significant overfitting. A complete example dataset can be obtained by contacting the authors.
+The data folder only contains a few example images. Its purpose is to illustrate what the shadowgraph image looks like. Training solely on this data will result in **significant overfitting**. A complete example dataset can be obtained by contacting the authors.
 
 ### Requirements
 All necessary dependencies are listed in `requirements.txt`.
