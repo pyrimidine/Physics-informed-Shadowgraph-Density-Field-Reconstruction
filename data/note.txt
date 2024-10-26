@@ -1,0 +1,1 @@
+The complete self-supervised training dataset contains approximately 10,000 individual images.
