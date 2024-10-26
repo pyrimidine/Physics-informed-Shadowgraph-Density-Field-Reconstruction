@@ -22,7 +22,7 @@ All necessary dependencies are listed in `requirements.txt`.
 This code is for academic use **ONLY**. Please cite the original paper if you use this code in your research.
 
 ### Authors
-- **Primary Author**: Xutun Wang
-- **Contributor**: Special thanks to Dr. Yuchen Zhang for his significant contributions to this research.
+- **Primary Author**: Xutun Wang, Yuchen Zhang
+- **Contributor**: Special thanks to Dr.  for his significant contributions to this research.
 - **Contact Information**: You can reach us at [xt-wang24@mails.tsinghua.edu.cn] or through our academic institution profiles.  
 
