@@ -12,8 +12,8 @@ This code implements a physics-informed framework for reconstructing density fie
 - **PINN Implementation**: Physics-informed neural network setup tailored for accurate density field reconstruction.
 - **Density Field Reconstruction**: Algorithms for computing density distributions based on refractive index variations within the experimental field.
 
-### Usage
-This code is intended ONLY for academic use. 
+### Dataset
+The data folder only contains a few example images, training solely on this data will result in significant overfitting. A complete example dataset can be obtained by contacting the authors.
 
 ### Requirements
 All necessary dependencies are listed in `requirements.txt`.
