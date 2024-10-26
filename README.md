@@ -5,6 +5,8 @@ This code implements a physics-informed framework for reconstructing density fie
 
 ![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/7813ac0001175ee698601809498e7e402c0ceada/alcohol%20burner%20flame.gif)
 
+![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/b692b8067b5e4ed713c8ab9bc6f2452f859fd0c5/results/alcohol%20burner%20plume.gif)
+
 ### Key Features
 - **Shadowgraph Image Processing**: Pre-processing and analysis of shadowgraph images for density field visualization.
 - **PINN Implementation**: Physics-informed neural network setup tailored for accurate density field reconstruction.
