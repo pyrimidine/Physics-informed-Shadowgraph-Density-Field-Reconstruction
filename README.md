@@ -23,6 +23,6 @@ This code is for academic use **ONLY**. Please cite the original paper if you us
 
 ### Authors
 - **Primary Author**: Xutun Wang, Yuchen Zhang
-- **Contributor**: Special thanks to Dr. Yuchen Zhang for his significant contributions to this research.
-- **Contact Information**: You can reach us at [xt-wang24@mails.tsinghua.edu.cn] or through our academic institution profiles.  
+- **Contact Information**: You can reach us at [xt-wang24@mails.tsinghua.edu.cn] or through our academic institution profiles.
+-  Special thanks to Dr. Yuchen Zhang for his significant contributions to this research. 
 
