@@ -3,15 +3,15 @@ This repository contains the source code for the research paper *"Physics-Inform
 ### Overview
 This code implements a physics-informed framework for reconstructing density fields from shadowgraph images. The approach combines shadowgraph imaging techniques with physics-informed neural networks (PINNs) to capture refractive index variations in complex flow fields accurately.
 
-![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/7813ac0001175ee698601809498e7e402c0ceada/alcohol%20burner%20flame.gif)
+![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/65489b7abfdd143793b52552fb5a1d01ab16af04/results/alcohol%20burner%20flame.gif)
 
-![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/b692b8067b5e4ed713c8ab9bc6f2452f859fd0c5/results/alcohol%20burner%20plume.gif)
+![[image](alcohol burner flame.gif)](https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/65489b7abfdd143793b52552fb5a1d01ab16af04/results/alcohol%20burner%20plume.gif)
 
 
 
 The video below demonstrates the on-time prediction. Due to the lack of high-performance GPU support on this laptop, the prediction process is relatively slow. (P.S.: Our model was definitely not trained on this laptop! 😊)
 
-<img src="https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/8d63b60e040105e1bf569d72dc60a6757eecad4a/results/on-time%20reconstruction1.gif" alt="Image" width="350" height="500"/>
+<img src="https://github.com/pyrimidine/Physics-informed-Shadowgraph-Density-Field-Reconstruction/blob/65489b7abfdd143793b52552fb5a1d01ab16af04/results/on-time%20reconstruction1.gif" alt="Image" width="350" height="500"/>
 
 ### Key Features
 - **Shadowgraph Image Processing**: Pre-processing and analysis of shadowgraph images for density field visualization.
