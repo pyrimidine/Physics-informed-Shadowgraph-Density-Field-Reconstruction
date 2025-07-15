@@ -24,11 +24,11 @@ The data folder only contains a few example images. Its purpose is to illustrate
 ### Requirements
 All necessary dependencies are listed in `requirements.txt`.
 
-### License
-This code is for academic use **ONLY**. Please cite the original paper if you use this code in your research.
-
 ### Authors
 - **Primary Author**: Xutun Wang, Yuchen Zhang
 - **Contact Information**: You can reach us at [xt-wang24@mails.tsinghua.edu.cn] or through our academic institution profiles.
--  Special thanks to Dr. Yuchen Zhang @paradoxknight1 for his significant contributions to this research. 
+-  Special thanks to Dr. Yuchen Zhang @paradoxknight1 for his significant contributions to this research.
 
+### Reference
+Please cite this article as:  
+X. Wang, Y. Zhang, Z. Li, H. Wen, B. Wang, Physics-informed shadowgraph network: an end-to-end self-supervised density field reconstruction method, Experimental Thermal and Fluid Science(2025), doi: https://doi.org/10.1016/j.expthermflusci.2025.111562
